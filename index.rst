@@ -1,7 +1,7 @@
 
 Welcome to QMOS Project documentation!
 ============================================
-This interface will provide you the indepth details of all the codes used in the Query Based Multi-Document Opinion Oriented Summarization (QMOS).
+This interface will provide you the indepth details of all the codes used in the Query Based Multi-Document Opinion Oriented Summarization (QMOS) project.
 
 **TEAM MEMBERS**:
 
