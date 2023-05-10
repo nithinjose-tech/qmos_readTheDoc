@@ -7,8 +7,8 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'QMOS Project'
-copyright = '2023, nithin'
-author = 'nithin'
+copyright = '2023, Nithin'
+author = 'Nithin'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
